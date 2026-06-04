@@ -11,6 +11,14 @@ npm run dev
 
 Open `http://localhost:5173`, then drag and drop two or more `.cpuprofile` files onto the page.
 
+To create a production build:
+
+```bash
+npm run build
+```
+
+The output is written to `dist/`. Preview it locally with `npm run preview`.
+
 ## What you see
 
 | Column | Description |
